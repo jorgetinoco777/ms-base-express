@@ -1,0 +1,14 @@
+{
+  "name": "ms.test-af",
+  "version": "1.0.0",
+  "description": "Proyecto base para crear micro servicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jorge.tinoco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
