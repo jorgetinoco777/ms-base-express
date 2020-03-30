@@ -9,6 +9,10 @@
   "author": "jorge.tinoco",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
